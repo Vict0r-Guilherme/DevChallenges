@@ -1,0 +1,41 @@
+.forum{
+    background-color: var(--roxo);
+    padding-top: 3rem;
+    min-height: 50vh;
+}
+
+.forum__img{
+    width: 5rem;
+}
+
+.forum__texto{
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.forum__button{
+    background-color: white;
+    color: var(--verde-escuro);
+    font-size: 1rem;
+    transition: .6s;
+}
+
+.forum__button:hover{
+    background-color: var(--verde-claro);
+    color: white;
+}
+
+@media (min-width: 868px){
+    
+}
+
+@media (min-width: 968px){
+    .forum{
+        flex-direction: column;
+        justify-content: center;
+        padding: 4rem 10rem;
+    }
+    .forum__texto{
+        font-size: 2rem;
+    }
+}

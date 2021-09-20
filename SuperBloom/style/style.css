@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100;300;400;700;900&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+:root{
+    /* Cores */
+        --verde-escuro: #00402f;
+        --verde-claro: #668c82;
+        --roxo: #522840;
+        --azul: #849acb;
+        --bege: #fff4e3;
+    /* Fontes */
+        --fonte-titulo:  'Arima Madurai', cursive;
+        --font-corpo: 'Open Sans', sans-serif;
+
+        --titulo-fonte-size: 1.875rem;
+        --subtitulo-fonte-size: 1rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+
+    width: 100%;
+    min-height: 100vh;
+    padding: 2rem;
+
+    color: white;
+    font: 700 var(--subtitulo-fonte-size) var(--font-corpo);
+}
+
+.button{
+    font-size: .75rem;
+    font-weight: 700;
+    font-family: var(--font-corpo);
+    text-transform: uppercase;
+    line-height: 1.8rem;
+    letter-spacing: .15rem;
+    border: none;
+    border-radius: 50px;
+    padding: .5rem 1.5rem;
+    margin: 2rem 0;
+}
+
+@media (min-width: 968px){
+    .container{
+        max-height: 100vh;
+        padding: 2rem 4rem;
+        flex-direction: row;
+    }
+}

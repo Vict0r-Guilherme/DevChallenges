@@ -1,0 +1,67 @@
+.missao{
+    background-color: var(--azul);
+}
+
+.missao__group{
+    width: 100%;
+}
+
+.missao__img{
+    width: 100%;
+}
+
+.missao__titulo{
+    font-size: .85rem;
+    opacity: .5;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    margin-bottom: 2rem;
+}
+
+.missao__paragrafo{
+    font: 700 1.35rem var(--font-corpo);
+    line-height: 2.35rem;
+    vertical-align: inherit;
+}
+
+.missao__button{
+    color: white;
+    background-color: transparent;
+    border: solid 2px white;
+}
+
+.missao__button:hover{
+    background-color: white;
+    color: var(--verde-escuro) ;
+}
+
+@media (min-width: 968px) {
+    .missao{
+        align-items: start;
+    }
+
+    .missao__paragrafo{
+        line-height: 3rem;
+        font-size: 2rem;
+        vertical-align: inherit;
+    }
+
+    .missao__group{
+        width: 50vw;
+    }
+
+    .missao__group--texto{
+        align-items: baseline;
+    }
+
+    .missao__group--img{
+        height: calc(100vh - 10rem);
+        position: relative;
+        top: 2rem;
+    }
+
+    .missao__img{
+        width: 100%;
+        height: calc(100vh - 10rem);
+    }
+}
