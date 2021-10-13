@@ -25,5 +25,5 @@ Sou um desenvolvedor Front-End, curioso e inquieto, em busca de novos conhecimen
     - Utilizar o sistema de módulos do Javascript para proteger os arquivos.
     - Aprender a consumir dados de uma API e exibir no front-end.
     - Aprender como funcionam as promises no JavaScript.
-    - 
+    
 ## Projetos
