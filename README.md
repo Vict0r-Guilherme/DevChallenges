@@ -1,5 +1,7 @@
 # DevChallenges
 
+Sou um desenvolvedor Front-End, curioso e inquieto, em busca de novos conhecimentos e experiências, costumo me desafiar constantemente, tentando melhorar e aprender algo todos os dias.
+
 ## Objetivos:
 
 - ### HTML
@@ -25,8 +27,3 @@
     - Aprender como funcionam as promises no JavaScript.
     - 
 ## Projetos
-
-### SuperBloom
-[VER AO VIVO](https://vict0r-guilherme.github.io/SuperBloom/)
-
-[VER O REPOSITÓRIO](https://github.com/Vict0r-Guilherme/SuperBloom)
