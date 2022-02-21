@@ -28,6 +28,5 @@ Sou um desenvolvedor Front-End, curioso e inquieto, em busca de novos conhecimen
     
 ## Projetos
 
-###  Página 404
- - [URL da solução](https://vict0r-guilherme.github.io/404-not-found/)
- - [URL do repositório](https://github.com/vict0r-guilherme/404-not-found)
+###
+
