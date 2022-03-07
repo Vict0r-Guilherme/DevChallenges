@@ -1,7 +1,5 @@
 # DevChallenges
 
-Sou um desenvolvedor Front-End, curioso e inquieto, em busca de novos conhecimentos e experiências, costumo me desafiar constantemente, tentando melhorar e aprender algo todos os dias.
-
 ## Objetivos:
 
 - ### HTML
